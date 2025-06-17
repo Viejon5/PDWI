@@ -9,8 +9,8 @@ Sitio web para venta de equipos de audio profesional: mezcladoras, bajos, medios
 
   
 #Colaboradores
-Hector Agustin Castillo Perez
-Angel Valentin Flores Eduardo
-Antonio Arellano Morales
-Jesus Sanchez Rosales
+- Hector Agustin Castillo Perez
+- Angel Valentin Flores Eduardo
+- Antonio Arellano Morales
+- Jesus Sanchez Rosales
 
